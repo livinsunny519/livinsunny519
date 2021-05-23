@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=livinsunny519&label=Profile%20views&color=0e75b6&style=flat" alt="livinsunny519" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=livinsunny519" alt="livinsunny519" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=livinsunny519&theme=radical" alt="livinsunny519" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
